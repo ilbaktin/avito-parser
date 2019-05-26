@@ -1,0 +1,506 @@
+[
+	{
+		"name": "Москва",
+		"url": "/moskva",
+		"lid": 637640,
+		"cnt": 9637852
+	},
+	{
+		"name": "Московская обл.",
+		"url": "/moskovskaya_oblast",
+		"lid": 637680,
+		"cnt": 2527515
+	},
+	{
+		"name": "Санкт-Петербург",
+		"url": "/sankt-peterburg",
+		"lid": 653240,
+		"cnt": 4722206
+	},
+	{
+		"name": "Ленинградская обл.",
+		"url": "/leningradskaya_oblast",
+		"lid": 636370,
+		"cnt": 255235
+	},
+	{
+		"name": "Адыгея",
+		"url": "/adygeya",
+		"lid": 645530,
+		"cnt": 74491
+	},
+	{
+		"name": "Алтайский край",
+		"url": "/altayskiy_kray",
+		"lid": 621590,
+		"cnt": 556062
+	},
+	{
+		"name": "Амурская обл.",
+		"url": "/amurskaya_oblast",
+		"lid": 622470,
+		"cnt": 159622
+	},
+	{
+		"name": "Архангельская обл.",
+		"url": "/arhangelskaya_oblast",
+		"lid": 622650,
+		"cnt": 199176
+	},
+	{
+		"name": "Астраханская обл.",
+		"url": "/astrahanskaya_oblast",
+		"lid": 623110,
+		"cnt": 284663
+	},
+	{
+		"name": "Башкортостан",
+		"url": "/bashkortostan",
+		"lid": 645790,
+		"cnt": 1163378
+	},
+	{
+		"name": "Белгородская обл.",
+		"url": "/belgorodskaya_oblast",
+		"lid": 623410,
+		"cnt": 478199
+	},
+	{
+		"name": "Брянская обл.",
+		"url": "/bryanskaya_oblast",
+		"lid": 623840,
+		"cnt": 310675
+	},
+	{
+		"name": "Бурятия",
+		"url": "/buryatiya",
+		"lid": 623845,
+		"cnt": 94960
+	},
+	{
+		"name": "Владимирская обл.",
+		"url": "/vladimirskaya_oblast",
+		"lid": 624300,
+		"cnt": 428455
+	},
+	{
+		"name": "Волгоградская обл.",
+		"url": "/volgogradskaya_oblast",
+		"lid": 624770,
+		"cnt": 842358
+	},
+	{
+		"name": "Вологодская обл.",
+		"url": "/vologodskaya_oblast",
+		"lid": 625330,
+		"cnt": 319802
+	},
+	{
+		"name": "Воронежская обл.",
+		"url": "/voronezhskaya_oblast",
+		"lid": 625670,
+		"cnt": 808720
+	},
+	{
+		"name": "Дагестан",
+		"url": "/dagestan",
+		"lid": 646710,
+		"cnt": 261586
+	},
+	{
+		"name": "Еврейская АО",
+		"url": "/evreyskaya_ao",
+		"lid": 626470,
+		"cnt": 19227
+	},
+	{
+		"name": "Забайкальский край",
+		"url": "/zabaykalskiy_kray",
+		"lid": 661460,
+		"cnt": 134208
+	},
+	{
+		"name": "Ивановская обл.",
+		"url": "/ivanovskaya_oblast",
+		"lid": 628450,
+		"cnt": 275104
+	},
+	{
+		"name": "Ингушетия",
+		"url": "/ingushetiya",
+		"lid": 628455,
+		"cnt": 9574
+	},
+	{
+		"name": "Иркутская обл.",
+		"url": "/irkutskaya_oblast",
+		"lid": 628780,
+		"cnt": 545167
+	},
+	{
+		"name": "Кабардино-Балкария",
+		"url": "/kabardino-balkariya",
+		"lid": 629430,
+		"cnt": 98337
+	},
+	{
+		"name": "Калининградская обл.",
+		"url": "/kaliningradskaya_oblast",
+		"lid": 629990,
+		"cnt": 614228
+	},
+	{
+		"name": "Калмыкия",
+		"url": "/kalmykiya",
+		"lid": 629995,
+		"cnt": 16356
+	},
+	{
+		"name": "Калужская обл.",
+		"url": "/kaluzhskaya_oblast",
+		"lid": 630270,
+		"cnt": 291723
+	},
+	{
+		"name": "Камчатский край",
+		"url": "/kamchatskiy_kray",
+		"lid": 630660,
+		"cnt": 59104
+	},
+	{
+		"name": "Карачаево-Черкесия",
+		"url": "/karachaevo-cherkesiya",
+		"lid": 630750,
+		"cnt": 45975
+	},
+	{
+		"name": "Карелия",
+		"url": "/kareliya",
+		"lid": 648070,
+		"cnt": 201947
+	},
+	{
+		"name": "Кемеровская обл.",
+		"url": "/kemerovskaya_oblast",
+		"lid": 631080,
+		"cnt": 593551
+	},
+	{
+		"name": "Кировская обл.",
+		"url": "/kirovskaya_oblast",
+		"lid": 631730,
+		"cnt": 386078
+	},
+	{
+		"name": "Коми",
+		"url": "/komi",
+		"lid": 648340,
+		"cnt": 187516
+	},
+	{
+		"name": "Костромская обл.",
+		"url": "/kostromskaya_oblast",
+		"lid": 632390,
+		"cnt": 197112
+	},
+	{
+		"name": "Краснодарский край",
+		"url": "/krasnodarskiy_kray",
+		"lid": 632660,
+		"cnt": 2745469
+	},
+	{
+		"name": "Красноярский край",
+		"url": "/krasnoyarskiy_kray",
+		"lid": 634930,
+		"cnt": 709850
+	},
+	{
+		"name": "Крым",
+		"url": "/respublika_krym",
+		"lid": 621550,
+		"cnt": 535452
+	},
+	{
+		"name": "Курганская обл.",
+		"url": "/kurganskaya_oblast",
+		"lid": 635730,
+		"cnt": 178915
+	},
+	{
+		"name": "Курская обл.",
+		"url": "/kurskaya_oblast",
+		"lid": 636030,
+		"cnt": 303145
+	},
+	{
+		"name": "Липецкая обл.",
+		"url": "/lipetskaya_oblast",
+		"lid": 637260,
+		"cnt": 284603
+	},
+	{
+		"name": "Магаданская обл.",
+		"url": "/magadanskaya_oblast",
+		"lid": 637530,
+		"cnt": 19489
+	},
+	{
+		"name": "Марий Эл",
+		"url": "/mariy_el",
+		"lid": 648730,
+		"cnt": 143092
+	},
+	{
+		"name": "Мордовия",
+		"url": "/mordoviya",
+		"lid": 648960,
+		"cnt": 138933
+	},
+	{
+		"name": "Мурманская обл.",
+		"url": "/murmanskaya_oblast",
+		"lid": 640000,
+		"cnt": 252962
+	},
+	{
+		"name": "Ненецкий АО",
+		"url": "/nenetskiy_ao",
+		"lid": 640001,
+		"cnt": 2260
+	},
+	{
+		"name": "Нижегородская обл.",
+		"url": "/nizhegorodskaya_oblast",
+		"lid": 640310,
+		"cnt": 1420624
+	},
+	{
+		"name": "Новгородская обл.",
+		"url": "/novgorodskaya_oblast",
+		"lid": 641240,
+		"cnt": 125460
+	},
+	{
+		"name": "Новосибирская обл.",
+		"url": "/novosibirskaya_oblast",
+		"lid": 641470,
+		"cnt": 981314
+	},
+	{
+		"name": "Омская обл.",
+		"url": "/omskaya_oblast",
+		"lid": 642020,
+		"cnt": 729729
+	},
+	{
+		"name": "Оренбургская обл.",
+		"url": "/orenburgskaya_oblast",
+		"lid": 642480,
+		"cnt": 405706
+	},
+	{
+		"name": "Орловская обл.",
+		"url": "/orlovskaya_oblast",
+		"lid": 643030,
+		"cnt": 193726
+	},
+	{
+		"name": "Пензенская обл.",
+		"url": "/penzenskaya_oblast",
+		"lid": 643250,
+		"cnt": 225748
+	},
+	{
+		"name": "Пермский край",
+		"url": "/permskiy_kray",
+		"lid": 643700,
+		"cnt": 988708
+	},
+	{
+		"name": "Приморский край",
+		"url": "/primorskiy_kray",
+		"lid": 644490,
+		"cnt": 66109
+	},
+	{
+		"name": "Псковская обл.",
+		"url": "/pskovskaya_oblast",
+		"lid": 645260,
+		"cnt": 192669
+	},
+	{
+		"name": "Республика Алтай",
+		"url": "/respublika_altay",
+		"lid": 662811,
+		"cnt": 24213
+	},
+	{
+		"name": "Ростовская обл.",
+		"url": "/rostovskaya_oblast",
+		"lid": 651110,
+		"cnt": 1572777
+	},
+	{
+		"name": "Рязанская обл.",
+		"url": "/ryazanskaya_oblast",
+		"lid": 652220,
+		"cnt": 331052
+	},
+	{
+		"name": "Самарская обл.",
+		"url": "/samarskaya_oblast",
+		"lid": 652560,
+		"cnt": 1250121
+	},
+	{
+		"name": "Саратовская обл.",
+		"url": "/saratovskaya_oblast",
+		"lid": 653420,
+		"cnt": 727342
+	},
+	{
+		"name": "Сахалинская обл.",
+		"url": "/sahalinskaya_oblast",
+		"lid": 653430,
+		"cnt": 4115
+	},
+	{
+		"name": "Саха (Якутия)",
+		"url": "/saha_yakutiya",
+		"lid": 649330,
+		"cnt": 24448
+	},
+	{
+		"name": "Свердловская обл.",
+		"url": "/sverdlovskaya_oblast",
+		"lid": 653700,
+		"cnt": 1620225
+	},
+	{
+		"name": "Северная Осетия",
+		"url": "/severnaya_osetiya",
+		"lid": 649820,
+		"cnt": 97069
+	},
+	{
+		"name": "Смоленская обл.",
+		"url": "/smolenskaya_oblast",
+		"lid": 654860,
+		"cnt": 270697
+	},
+	{
+		"name": "Ставропольский край",
+		"url": "/stavropolskiy_kray",
+		"lid": 655190,
+		"cnt": 676295
+	},
+	{
+		"name": "Тамбовская обл.",
+		"url": "/tambovskaya_oblast",
+		"lid": 656520,
+		"cnt": 232056
+	},
+	{
+		"name": "Татарстан",
+		"url": "/tatarstan",
+		"lid": 650130,
+		"cnt": 1593528
+	},
+	{
+		"name": "Тверская обл.",
+		"url": "/tverskaya_oblast",
+		"lid": 656890,
+		"cnt": 362316
+	},
+	{
+		"name": "Томская обл.",
+		"url": "/tomskaya_oblast",
+		"lid": 657310,
+		"cnt": 253602
+	},
+	{
+		"name": "Тульская обл.",
+		"url": "/tulskaya_oblast",
+		"lid": 657610,
+		"cnt": 422674
+	},
+	{
+		"name": "Тыва",
+		"url": "/tyva",
+		"lid": 650690,
+		"cnt": 5418
+	},
+	{
+		"name": "Тюменская обл.",
+		"url": "/tyumenskaya_oblast",
+		"lid": 658170,
+		"cnt": 540434
+	},
+	{
+		"name": "Удмуртия",
+		"url": "/udmurtiya",
+		"lid": 659200,
+		"cnt": 473261
+	},
+	{
+		"name": "Ульяновская обл.",
+		"url": "/ulyanovskaya_oblast",
+		"lid": 659540,
+		"cnt": 357925
+	},
+	{
+		"name": "Хабаровский край",
+		"url": "/habarovskiy_kray",
+		"lid": 659930,
+		"cnt": 244524
+	},
+	{
+		"name": "Хакасия",
+		"url": "/hakasiya",
+		"lid": 650890,
+		"cnt": 127241
+	},
+	{
+		"name": "Ханты-Мансийский АО",
+		"url": "/hanty-mansiyskiy_ao",
+		"lid": 660300,
+		"cnt": 394372
+	},
+	{
+		"name": "Челябинская обл.",
+		"url": "/chelyabinskaya_oblast",
+		"lid": 660710,
+		"cnt": 1383855
+	},
+	{
+		"name": "Чеченская Республика",
+		"url": "/chechenskaya_respublika",
+		"lid": 660711,
+		"cnt": 124373
+	},
+	{
+		"name": "Чувашия",
+		"url": "/chuvashiya",
+		"lid": 662000,
+		"cnt": 313592
+	},
+	{
+		"name": "Чукотский АО",
+		"url": "/chukotskiy_ao",
+		"lid": 662280,
+		"cnt": 502
+	},
+	{
+		"name": "Ямало-Ненецкий АО",
+		"url": "/yamalo-nenetskiy_ao",
+		"lid": 662330,
+		"cnt": 102993
+	},
+	{
+		"name": "Ярославская обл.",
+		"url": "/yaroslavskaya_oblast",
+		"lid": 662530,
+		"cnt": 533469
+	}
+]
