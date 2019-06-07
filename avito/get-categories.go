@@ -25,7 +25,7 @@ func GetCategoriesTree() ([]*model.Category, error) {
 	categories := make([]*model.Category, 0, 30)
 	var lastRoot *model.Category
 
-	doc.Find("div.form-select-v2 > select[name=category_id] > option").Each(func (i int, s *goquery.Selection) {
+	doc.Find("div.form-select-v2 > select[name=category_id] > option").Each(func(i int, s *goquery.Selection) {
 		//val, err := s.Html()
 		//fmt.Printf("%#v, err='%v'\n", val, err)
 		//fmt.Println(goquery.NodeName(s))
@@ -47,7 +47,6 @@ func GetCategoriesTree() ([]*model.Category, error) {
 	return categories, nil
 }
 
-
 func GetCategoriesWithCountsForRegion(regionPath string) ([]*model.Category, error) {
 	reqUrl := prepareUrlWithPath(regionPath)
 
@@ -64,7 +63,7 @@ func GetCategoriesWithCountsForRegion(regionPath string) ([]*model.Category, err
 
 	categories := make([]*model.Category, 0, 30)
 
-	doc.Find("div.catalog-counts__row > ul > li").Each(func (i int, s *goquery.Selection) {
+	doc.Find("div.catalog-counts__row > ul > li").Each(func(i int, s *goquery.Selection) {
 		if s.Contents().Length() < 2 {
 			return
 		}
